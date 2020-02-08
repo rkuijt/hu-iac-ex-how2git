@@ -1,4 +1,4 @@
-package nl.rkuijt.domain;
+package nl.rcgriffin.domain;
 
 public class Goose {
 

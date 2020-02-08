@@ -1,5 +1,4 @@
-package nl.rkuijt;
-
+package nl.rcgriffin;
 import java.io.IOException;
 
 public class Main {

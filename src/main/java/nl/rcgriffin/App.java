@@ -1,7 +1,8 @@
-package nl.rkuijt;
+package nl.rcgriffin;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import nl.rkuijt.domain.Goose;
+import nl.rcgriffin.domain.Goose;
+
 
 import java.io.File;
 import java.io.IOException;

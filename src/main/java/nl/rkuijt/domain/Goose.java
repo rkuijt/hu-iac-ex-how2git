@@ -5,7 +5,7 @@ public class Goose {
 	private String name;
 	private String sound;
 	private int size;
-	private String password = "";
+	private String password = "***REMOVED***";
 
 	public Goose() {
 	}

@@ -5,21 +5,21 @@ public class Goose {
 	private String name;
 	private String sound;
 	private int size;
-	private String password = "***REMOVED***";
+	private String password = "S3cr37G005eP@ssword!";
 
 	public Goose() {
 	}
 
 	public String getName() {
-		return name;
+		return name; 
 	}
 
 	public void setName(String name) {
-		this.name = name;
+		this.name = name; 
 	}
 
 	public String getSound() {
-		return sound;
+		return sound; 
 	}
 
 	public void setSound(String sound) {
